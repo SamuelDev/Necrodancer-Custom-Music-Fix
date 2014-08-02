@@ -12,7 +12,3 @@ If you run this program from the folder, it will generate processed files for al
 The issue though, is that it names the files differently when you process them out of the game, versus from in the game.  While you could go through and rename each song manually, when you are using upwards of 100+ songs, this process would take too long.
 
 I threw together a quick fix so I could process all of my songs in one go, and I am releasing it for everyone else to use if they want.
-
-https://github.com/SamuelDev/Necrodancer-Custom-Music-Fix
-
-You can go to the github page, click "Download ZIP" in the bottom right, and follow the directions in the Readme to use this.
